@@ -1,7 +1,7 @@
 [project]
 name = "dragoon"
 version = "0.1.0"
-description = "Add your description here"
+description = "A collection of benchmark experiments to test agentic AI on HPC architecture"
 readme = "README.md"
 requires-python = ">=3.10,<3.13"
 dependencies = [
